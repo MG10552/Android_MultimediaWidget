@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">multimediaWidget</string>
+    <string name="appwidget_text">Royal Library of Alexandria</string>
+    <string name="add_widget">Add widget</string>
+    <string name="widget_title">Royal Library of Alexandria</string>
+    <string name="widget_website">Find out more</string>
+    <string name="widget_pictures">Pictures</string>
+    <string name="widget_sounds_prev">Prev</string>
+    <string name="widget_sounds_play">Play</string>
+    <string name="widget_sounds_stop">STOP</string>
+    <string name="widget_sounds_next">Next</string>
+</resources>
